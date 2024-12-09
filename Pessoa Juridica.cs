@@ -1,4 +1,4 @@
-namespace Controle_De_Clientes
+namespace Controle de Clientes
 {
     class Pessoa_Juridica : Clientes
 {
