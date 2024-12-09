@@ -1,0 +1,14 @@
+C:\Users\mariz\Desktop\Controle de Clientes\bin\Debug\net8.0\Controle de Clientes.exe
+C:\Users\mariz\Desktop\Controle de Clientes\bin\Debug\net8.0\Controle de Clientes.deps.json
+C:\Users\mariz\Desktop\Controle de Clientes\bin\Debug\net8.0\Controle de Clientes.runtimeconfig.json
+C:\Users\mariz\Desktop\Controle de Clientes\bin\Debug\net8.0\Controle de Clientes.dll
+C:\Users\mariz\Desktop\Controle de Clientes\bin\Debug\net8.0\Controle de Clientes.pdb
+C:\Users\mariz\Desktop\Controle de Clientes\obj\Debug\net8.0\Controle de Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariz\Desktop\Controle de Clientes\obj\Debug\net8.0\Controle de Clientes.AssemblyInfoInputs.cache
+C:\Users\mariz\Desktop\Controle de Clientes\obj\Debug\net8.0\Controle de Clientes.AssemblyInfo.cs
+C:\Users\mariz\Desktop\Controle de Clientes\obj\Debug\net8.0\Controle de Clientes.csproj.CoreCompileInputs.cache
+C:\Users\mariz\Desktop\Controle de Clientes\obj\Debug\net8.0\Controle de Clientes.dll
+C:\Users\mariz\Desktop\Controle de Clientes\obj\Debug\net8.0\refint\Controle de Clientes.dll
+C:\Users\mariz\Desktop\Controle de Clientes\obj\Debug\net8.0\Controle de Clientes.pdb
+C:\Users\mariz\Desktop\Controle de Clientes\obj\Debug\net8.0\Controle de Clientes.genruntimeconfig.cache
+C:\Users\mariz\Desktop\Controle de Clientes\obj\Debug\net8.0\ref\Controle de Clientes.dll
